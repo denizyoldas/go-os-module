@@ -1,2 +1,2 @@
-# i try to go os module 
+# i try to use os module 
 
